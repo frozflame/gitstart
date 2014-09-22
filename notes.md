@@ -1,7 +1,6 @@
 
-# Notes on Git & GitHub
-
-----
+Notes on Git & GitHub
+=====
 
 ### Config file
 
