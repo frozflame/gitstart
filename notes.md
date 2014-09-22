@@ -2,26 +2,26 @@
 Notes on Git & GitHub
 =====
 
-### Config file
+#### Config file
 
     ./.git/config
 
-### Clone from github 
+#### Clone from github 
 
     # use SSH avoiding password prompt
     git clone git@github.com:frozen-flame/gitstart.git
 
-### Update from local to remote
+#### Update from local to remote
 
     git push
 
-### Update from remote to local
+#### Update from remote to local
 
     git pull origin master
 
 --
 
-### Frequent commands
+#### Frequent commands
 
     git add FILENAME
 
@@ -36,14 +36,14 @@ Notes on Git & GitHub
 
 --
 
-### Config username and email
+#### Config username and email
 
     git config user.name frozen-flame
     git config user.email lendoli@163.com
 
 --
 
-### Switch from HTTPS to SSH
+#### Switch from HTTPS to SSH
 
     git remote rm origin
     git remote add origin git@github.com:yuquan0821/demo.git
