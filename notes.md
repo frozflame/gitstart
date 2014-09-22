@@ -3,6 +3,7 @@ Notes on Git & GitHub
 ----
 
 Config file: 
+
     ./.git/config
 
 Clone from github (use SSH avoiding password prompt):
