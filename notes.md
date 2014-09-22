@@ -44,8 +44,8 @@ Config username and email:
 
 Switch from HTTPS to SSH:
 
-1. git remote rm origin
-2. git remote add origin git@github.com:yuquan0821/demo.git
-3. git push origin 
+    git remote rm origin
+    git remote add origin git@github.com:yuquan0821/demo.git
+    git push origin 
 
 
