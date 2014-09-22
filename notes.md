@@ -1,36 +1,47 @@
 
-clone from github (use SSH avoiding password prompt)
+Notes on Git & GitHub
+----
+
+Config file: 
+    ./.git/config
+
+Clone from github (use SSH avoiding password prompt):
 
     git clone git@github.com:frozen-flame/gitstart.git
 
-# update from local to remote
+Update from local to remote
 
     git push
 
-# update from remote to local
-git pull origin master
+Update from remote to local
 
-
---
-
-git add FILENAME
-
-git status
-git log
-git reflog
-git reset --hard HASH
-
-git commit -m 'MESSAGE'
-git commit -a -m 'MESSAGE'
+    git pull origin master
 
 --
 
-git config user.name frozen-flame
-git config user.email lendoli@163.com
+Frequent commands:
+
+    git add FILENAME
+
+    git status
+    git log
+
+    git commit -m 'MESSAGE'
+    git commit -a -m 'MESSAGE'
+
+    git reflog
+    git reset --hard HASH
 
 --
 
-Avoid username/password prompt:
+Config username and email:
+
+    git config user.name frozen-flame
+    git config user.email lendoli@163.com
+
+--
+
+Switch from HTTPS to SSH:
 
 1. git remote rm origin
 2. git remote add origin git@github.com:yuquan0821/demo.git
