@@ -35,7 +35,7 @@ Frequent commands:
 
 --
 
-## Config username and email:
+# Config username and email:
 
     git config user.name frozen-flame
     git config user.email lendoli@163.com
