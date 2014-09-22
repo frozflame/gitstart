@@ -35,14 +35,14 @@ Frequent commands:
 
 --
 
-# Config username and email:
+### Config username and email:
 
     git config user.name frozen-flame
     git config user.email lendoli@163.com
 
 --
 
-## Switch from HTTPS to SSH:
+### Switch from HTTPS to SSH:
 
     git remote rm origin
     git remote add origin git@github.com:yuquan0821/demo.git
