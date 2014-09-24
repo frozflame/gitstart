@@ -41,3 +41,4 @@ def fncore(fname, fmt = 'auto', seqtype = None):
 if __name__ == "__main__":
     for fname in sys.argv[1:]:
         fncore(fname)
+    # dummy line
