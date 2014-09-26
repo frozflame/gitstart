@@ -1,8 +1,8 @@
 
-Sync `fork`
+Sync fork
 ===========
 
-#### From `fork` to `upstream` ####
+#### From **fork** to **upstream** ####
 
 Owner of `fork` create a `Pull Request` from the GitHub website.
 Owner of `upstream` accept it to merge changes to `upstream`.
