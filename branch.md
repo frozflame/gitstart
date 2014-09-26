@@ -25,6 +25,17 @@ Show available branches (and current branch)
 
 -------
 
+Merge `hotfix` to `master`
+
+    $ git checkout master
+    $ git merge hotfix
+
+Delete `hotfix` then
+
+    $ git branch -d hotfix
+
+-------
+
 
 
 
