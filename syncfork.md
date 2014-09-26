@@ -2,14 +2,14 @@
 Sync fork
 ===========
 
-#### From **fork** to **upstream** ####
+#### from fork to upstream ####
 
 Owner of `fork` create a `Pull Request` from the GitHub website.
 Owner of `upstream` accept it to merge changes to `upstream`.
 
 -------
 
-#### From `upstream` to local `fork` ###
+#### from upstream to local fork ###
 
 The following links will help
 
