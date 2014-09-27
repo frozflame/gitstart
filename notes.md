@@ -38,7 +38,7 @@ Notes on Git & GitHub
 
 #### Config username and email
 
-    git config user.name frozen-flame
+    git config user.name frozflame
     git config user.email lendoli@163.com
 
 --
