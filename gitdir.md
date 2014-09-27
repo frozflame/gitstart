@@ -91,7 +91,7 @@ Then commit
     │   ├── index
     │   ├── info
     │   │   └── exclude
-    │   ├── logs
+    │   ├── logs    (did NOT exist before)
     │   │   ├── HEAD
     │   │   └── refs
     │   │       └── heads
