@@ -38,8 +38,13 @@ Notes on Git & GitHub
 
 #### Config username and email
 
+    # repo-wise (saved to .git/config)
     git config user.name frozflame
     git config user.email lendoli@163.com
+    
+    # user-wise (saved to ~/.gitconfig)
+    git config --global user.name frozflame
+    git config --global user.email lendoli@163.com
 
 --
 
