@@ -1,6 +1,6 @@
 
 Notes on Git & GitHub
-=====
+---------------------
 
 #### Config file
 
@@ -19,7 +19,7 @@ Notes on Git & GitHub
 
     git pull origin master
 
---
+=======================================
 
 #### Frequent commands
 
@@ -34,7 +34,7 @@ Notes on Git & GitHub
     git reflog
     git reset --hard HASH
 
---
+=======================================
 
 #### Config username and email
 
@@ -46,7 +46,7 @@ Notes on Git & GitHub
     git config --global user.name frozflame
     git config --global user.email lendoli@163.com
 
---
+=======================================
 
 #### Switch from HTTPS to SSH
 

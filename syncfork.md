@@ -1,13 +1,13 @@
 
 Sync fork
-===========
+---------
 
 #### from fork to upstream ####
 
 Owner of `fork` create a `Pull Request` from the GitHub website.
 Owner of `upstream` accept it to merge changes to `upstream`.
 
--------
+=======================================
 
 #### from upstream to local fork ###
 
@@ -31,6 +31,6 @@ To sync
     $ git checkout master
     $ git merge upstream/master
 
--------
+=======================================
     
 

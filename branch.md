@@ -1,6 +1,7 @@
 
 Branch
-=======
+-------
+
 
 Create and switch to new branch `hotfix`
 
@@ -11,7 +12,7 @@ which is equivolent to
     $ git branch hotfix
     $ git checkout hotfix
 
--------
+=============================================
 
 Switch between branches
 
@@ -23,7 +24,7 @@ Show available branches (and current branch)
     $ git branch
     $ git branch -v 
 
--------
+=============================================
 
 Merge `hotfix` to `master`
 
@@ -34,9 +35,5 @@ Delete `hotfix` then
 
     $ git branch -d hotfix
 
--------
-
-
-
-
+=============================================
 

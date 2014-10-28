@@ -1,6 +1,6 @@
 
 Observe `.git` Directory
--------------
+------------------------
 
 Directory structure after `git init`
 
