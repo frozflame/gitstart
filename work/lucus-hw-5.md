@@ -5,7 +5,7 @@ Answers to ASSIGNMENT # 5
 All codes test on Ubuntu Linux, with Python 2.7.6 and 3.4.0. Compatibility to
 other versions and systems are unknown.
 
-Note: In folder `all`, files `run{0,1,2,3}` are slightly modified to be runable
+Note: In folder `allcodes`, files `run{0,1,2,3}.py` are slightly modified to be runable
 under Linux system. 
 
 =======================================
